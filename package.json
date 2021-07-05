@@ -1,5 +1,5 @@
 {
-  "name": "ukb-fe-launchpad-commons",
+  "name": "@shibin92/ukb-fe-launchpad-commons",
   "files": [
     "./dist"
   ],
